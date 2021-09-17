@@ -7,7 +7,7 @@
 
 **Talking about Personal Stuffs:**
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/i3man/i3man/master/resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently studying;
 - 💬 Ask me about anything, I am happy to help;
@@ -20,6 +20,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
+
 
 **Stats:**
 
