@@ -7,7 +7,7 @@
 
 **Talking about Personal Stuffs:**
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/i3man/i3man/master/resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/i3man/i3man/main/resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently studying;
 - 💬 Ask me about anything, I am happy to help;
